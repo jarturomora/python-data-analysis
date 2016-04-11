@@ -19,3 +19,6 @@ sftp-config.json
 
 # Jupyter checkpoints
 .ipynb_checkpoints/*
+
+# gedit temp file
+*~
