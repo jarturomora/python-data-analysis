@@ -22,3 +22,6 @@ sftp-config.json
 
 # gedit temp file
 *~
+
+# Huge data file
+data/Election_Donor_Data.csv
