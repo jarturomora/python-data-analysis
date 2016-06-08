@@ -24,4 +24,4 @@ sftp-config.json
 *~
 
 # Huge data files
-data/Election_Donor.csv
+data/Election_Donor_Data.csv
